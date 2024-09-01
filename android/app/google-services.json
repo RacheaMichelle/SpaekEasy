@@ -1,0 +1,29 @@
+{
+    "project_info": {
+      "project_number": "532548607087",
+      "project_id": "speakeasy-bb246",
+      "storage_bucket": "speakeasy-bb246.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:532548607087:android:c006717803dbf21055019a",
+          "android_client_info": {
+            "package_name": "com.example.language_learning_assistant"
+          }
+        },
+        "oauth_client": [],
+        "api_key": [
+          {
+            "current_key": "AIzaSyDlN0_F_EVgffykCtRbg-HId9_e98EWZRk"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": []
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }

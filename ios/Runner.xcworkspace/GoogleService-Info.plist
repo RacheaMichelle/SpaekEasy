@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyCpVL9e2rdmwpmjmbMeNEpbo7GrxfnkJQg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>532548607087</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.languageLearningAssistant</string>
+	<key>PROJECT_ID</key>
+	<string>speakeasy-bb246</string>
+	<key>STORAGE_BUCKET</key>
+	<string>speakeasy-bb246.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:532548607087:ios:ab1270af03f30c8b55019a</string>
+</dict>
+</plist>
